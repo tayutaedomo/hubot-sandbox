@@ -1,5 +1,5 @@
 {
-  "name": "tayutaedomo-sandbox",
+  "name": "tayutaedomo-hubot-sandbox",
   "version": "0.0.0",
   "private": true,
   "author": "y",
@@ -20,6 +20,6 @@
     "hubot-slack": "^4.3.4"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "8.x"
   }
 }
